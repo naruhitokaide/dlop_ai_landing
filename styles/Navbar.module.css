@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+  padding: 0 2vw;
+}
+.center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.email {
+  margin: 0;
+  z-index: 1000;
+  color: white;
+}

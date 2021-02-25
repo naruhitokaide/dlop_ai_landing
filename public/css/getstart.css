@@ -1,0 +1,89 @@
+.theme-btn {
+  font-size: 15px;
+  text-transform: uppercase;
+  background-color: #6c5ce7;
+  color: #fff;
+  font-weight: 500;
+  padding: 1px 20px;
+  line-height: 50px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+  border: none;
+}
+
+.theme-btn:hover {
+  color: #fff;
+  background-color: #13137f;
+  -webkit-box-shadow: 0 12px 24px -6px rgba(93, 80, 197, 0.2);
+  -moz-box-shadow: 0 12px 24px -6px rgba(93, 80, 197, 0.2);
+  box-shadow: 0 12px 24px -6px rgba(93, 80, 197, 0.2);
+  -webkit-transform: translateY(-1px);
+  -moz-transform: translateY(-1px);
+  -ms-transform: translateY(-1px);
+  -o-transform: translateY(-1px);
+  transform: translateY(-1px);
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .get-start-area {
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .get-start-area {
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .get-start-area {
+    text-align: center;
+  }
+}
+.get-start-area .get-start-box {
+  background-color: #fff;
+  border: 1px solid rgba(127, 136, 151, 0.2);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 10%), 0 4px 6px -2px rgb(0 0 0 / 5%);
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 40px 30px;
+}
+.get-start-area .get-start-box .section-heading .section__title {
+  font-size: 35px;
+  margin-bottom: 8px;
+}
+.get-start-area .get-start-box .section-heading .section__sub {
+  font-size: 18px;
+  font-weight: 500;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .get-start-area .get-start-box .button-shared.text-right {
+    margin-top: 30px;
+    text-align: center !important;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .get-start-area .get-start-box .button-shared.text-right {
+    margin-top: 30px;
+    text-align: center !important;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .get-start-area .get-start-box .button-shared.text-right {
+    margin-top: 30px;
+    text-align: center !important;
+  }
+}
