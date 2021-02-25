@@ -1,18 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Welcome to Dlops 👋</h1>
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+    <img src="https://camo.githubusercontent.com/e13276d25e087473204c677751e4d9b9b6ea5fbd/68747470733a2f2f7365637572652e7472617669732d63692e6f72672f61757468302f6e6f64652d6a736f6e776562746f6b656e2e7376673f6272616e63683d6d6173746572" alt="Build Status" style="max-width:100%;">
+</p>
+<p align="center">
+<a  href="https://dlopsai.netlify.app/">Visit Website</a>
+</p
 
-## Getting Started
 
-First, run the development server:
+> **Description:**  dlops AI landing page
 
-```bash
-npm run dev
-# or
-yarn dev
+​                 
+
+<h4 align="center"> #Nextjs </h4>
+
+### All Links Here :link:
+
+| LIVE URL | https://dlopsai.netlify.app/ |
+| :------: | :--------------------------: |
+|          |                              |
+|          |                              |
+|          |                              |
+
+> Install:saxophone: root & client folder
+
+```sh
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+npm run dev
+```
 
 ## Learn More
 
